@@ -23,3 +23,13 @@ h1 {
   color: transparent;
   text-shadow: 0 0 4px white;
 }
+
+/* score HUD */
+p 
+{
+  position: absolute;
+  margin: 0;
+  top: 35px;
+  right: 5px;
+  color: #aaa;
+}
